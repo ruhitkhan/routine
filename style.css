@@ -43,11 +43,11 @@ table {
     color: black;
   }
 
- .day{
+ .day {
   color: grey;
+  }
   //Color alternating rows
   tr:nth-child(even) {
     background-color: #f4f6fb;
   }
-}
 
