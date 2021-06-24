@@ -9,12 +9,8 @@ body {
   background-color: #f9fbff;
 }
 
-.table1 {
-  border-collapse: collapse;
-  box-shadow: 0 5px 10px #e1e5ee;
-  background-color: white;
+table {
   text-align: center;
-  overflow: hidden;
 }
 
 .day {
